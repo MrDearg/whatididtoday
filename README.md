@@ -17,3 +17,5 @@ WhatiDidToday is an open source project that tries to track your time using only
 ## WhatiDidToday is not
 * Another time tracking billing app
 * An overly complex way of monitoring your professional and personal time
+
+Feel free to open a PR and contribute
