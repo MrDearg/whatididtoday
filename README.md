@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+WhatiDidToday is an open source project that tries to track your time using only #tags and integrations. 
 
-Things you may want to cover:
+## Proposed features over time (no timeline)
+* Timeline feed
+* Categorisations
+* Description of Tasks
+* Associated Names
+* Tags
+* Search by Tag(s)
+* Reports
+* Auto-Timers
+* Public Pages
+* Dashboard
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## WhatiDidToday is not
+* Another time tracking billing app
+* An overly complex way of monitoring your professional and personal time
